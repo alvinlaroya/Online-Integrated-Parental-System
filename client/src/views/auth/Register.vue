@@ -3,7 +3,7 @@
     <v-row align="center" justify="center" style="height: 90vh">
       <v-col cols="6">
         <v-card class="pa-6" style="text-align: center">
-          <img src="@/images/pnp.png" style="width: 200px" alt="" /><br />
+          <img src="@/images/sicat.png" style="width: 200px" alt="" /><br />
           <span class="font-weight-bold" style="font-size: 21px"
             >Create Account</span
           >
