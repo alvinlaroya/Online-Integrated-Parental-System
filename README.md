@@ -4,9 +4,9 @@ Vue, Vuex, Vue-router, Vuetify, Sequelize, Express, Node & Mysql
 Client > Run npm run serve
 Backend > Run node server.js
 
-![alt text](images/ss/login.PNG)
-![alt text](images/ss/register.png)
-![alt text](images/ss/dashboard.png)
-![alt text](images/ss/subject.png)
-![alt text](images/ss/management.png)
-![alt text](images/ss/insert.png)
+![alt text](client/src/images/ss/login.PNG)
+![alt text](client/src/images/ss/register.png)
+![alt text](client/src/images/ss/dashboard.png)
+![alt text](client/src/images/ss/subject.png)
+![alt text](client/src/images/ss/management.png)
+![alt text](client/src/images/ss/insert.png)
