@@ -5,8 +5,8 @@ Client > Run npm run serve
 Backend > Run node server.js
 
 ![alt text](client/src/images/ss/login.PNG)
-![alt text](client/src/images/ss/register.png)
-![alt text](client/src/images/ss/dashboard.png)
-![alt text](client/src/images/ss/subject.png)
-![alt text](client/src/images/ss/management.png)
-![alt text](client/src/images/ss/insert.png)
+![alt text](client/src/images/ss/register.PNG)
+![alt text](client/src/images/ss/dashboard.PNG)
+![alt text](client/src/images/ss/subject.PNG)
+![alt text](client/src/images/ss/management.PNG)
+![alt text](client/src/images/ss/insert.PNG)
