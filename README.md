@@ -10,3 +10,4 @@ Backend > Run node server.js
 ![alt text](client/src/images/ss/subject.PNG)
 ![alt text](client/src/images/ss/management.PNG)
 ![alt text](client/src/images/ss/insert.PNG)
+![alt text](client/src/images/ss/show_grade.PNG)
