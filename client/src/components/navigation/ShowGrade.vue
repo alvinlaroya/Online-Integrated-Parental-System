@@ -90,10 +90,6 @@ export default {
     currentSubject: {},
     headers: [
       {
-        text: "Student ID",
-        value: "studentId",
-      },
-      {
         text: "Subject Code",
         value: "subjectCode",
       },
